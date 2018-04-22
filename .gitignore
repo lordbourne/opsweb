@@ -1,0 +1,8 @@
+venv/
+*.pyc
+test-*
+flask-*
+*.swp
+*.swo
+*.tar.gz
+*.tar.bz2
